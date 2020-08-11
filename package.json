@@ -1,0 +1,15 @@
+{
+  "name": "bo-parser",
+  "version": "1.0.0",
+  "description": "bo.nalog.ru excel parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem Kirillin",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.31",
+    "xlsx": "^0.16.5"
+  }
+}
